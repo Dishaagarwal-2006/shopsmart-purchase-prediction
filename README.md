@@ -1,5 +1,9 @@
 # ShopSmart Purchase Prediction
 
+## Live Demo
+
+https://shopsmart-purchase-prediction-ze5xa6khbjo8gafmevcveb.streamlit.app/
+
 ## Overview
 
 ShopSmart is an e-commerce purchase prediction system that uses Machine Learning to determine whether a visitor is likely to complete a purchase based on their browsing behavior.
