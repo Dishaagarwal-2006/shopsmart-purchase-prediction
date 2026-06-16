@@ -1,0 +1,15 @@
+**pycache**/
+*.pyc
+.venv/
+venv/
+
+.streamlit/
+
+.ipynb_checkpoints/
+
+.DS_Store
+Thumbs.db
+
+.env
+
+artifacts/*.pkl
